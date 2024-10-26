@@ -91,8 +91,7 @@ int main() {
 ```
 # OUTPUT:
 
-![WhatsApp Image 2024-10-26 at 10 28 05 AM (1)](https://github.com/user-attachments/assets/1a1a4c13-4c09-4658-98da-f3ede8f43de5)
-
+![image](https://github.com/user-attachments/assets/cb6a608f-e1cc-474b-a16d-b337ea857428)
 
 # RESULT:
 The program to implement a symbol table is executed and the output is verified.
