@@ -91,7 +91,7 @@ int main() {
 ```
 # OUTPUT:
 
-![Screenshot 2024-10-17 144724](https://github.com/user-attachments/assets/b129e593-045e-4d55-9780-f0c2def769fa)
+![WhatsApp Image 2024-10-26 at 10 28 05 AM (1)](https://github.com/user-attachments/assets/1a1a4c13-4c09-4658-98da-f3ede8f43de5)
 
 
 # RESULT:
